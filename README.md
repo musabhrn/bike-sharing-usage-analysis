@@ -1,7 +1,7 @@
 # Bike Sharing Usage Analysis
 
 ## 📌 Project Overview
-This project analyses transactional data from an online electronics retailer with the aim to:
+This project analyses bike rental data from a bike-sharing system with the aim to:
 - Analyse daily bike rental patterns to identify peak and low usage days, and understand how rentals vary over time and by day type
 - Examine the impact of weather conditions on bike rental behavior and determine which factors most strongly influence demand
 - Explore customer behavior differences between casual and registered users, including their usage patterns, preferred days, and sensitivity to weather changes
