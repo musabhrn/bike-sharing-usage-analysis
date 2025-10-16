@@ -13,3 +13,19 @@ This dataset contains detailed records of bike sharing activity collected from a
 
 ## 🛠️ Tools & Technologies
 Jupyter Notebook (for data cleaning, wrangling and dashboard creation)
+
+## 📊 Dashboard
+### Dashboard #1
+<kbd>
+  <img width="1000" height="800" alt="Dashboard #1" src="https://github.com/user-attachments/assets/b1099bf7-3386-44ca-b21d-b787af07e38a" />
+</kbd>
+
+### Dashboard #2
+<kbd>
+  <img width="1000" height="800" alt="Dashboard #2" src="https://github.com/user-attachments/assets/24533ffb-3764-482a-abe4-a1bf8a4fb39b" />
+</kbd>
+
+### Dashboard #3
+<kbd>
+  <img width="1000" height="800" alt="Dashboard #3" src="https://github.com/user-attachments/assets/45a4bbb5-2806-43dd-bde9-1a3cdd017dc3" />
+</kbd>
