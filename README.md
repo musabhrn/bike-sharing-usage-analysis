@@ -12,7 +12,7 @@ This project analyses bike rental data from a bike-sharing system with the aim t
 This dataset contains detailed records of bike sharing activity collected from a bike sharing system from 2011 to 2012. Each row represents a single day and includes information about the type of day, weather conditions, rider type, and the total number of bikes rented.
 
 ## 🛠️ Tools & Technologies
-Jupyter Notebook (for data cleaning, wrangling and dashboard creation)
+- Jupyter Notebook (for data cleaning, wrangling and dashboard creation)
 
 ## 📊 Dashboard
 ### Dashboard #1
